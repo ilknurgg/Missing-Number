@@ -1,0 +1,9 @@
+Get list of numbers
+Declare a variable isFind for find operation
+Loop from j=1 to j<=list of numbers's length
+    Set isFind to false
+    Loop from i=0 to i<list of numbers's length
+    if any element of the list equals to j
+       Set isFind as true
+If isFind equals to false 
+print the result as missing number j
